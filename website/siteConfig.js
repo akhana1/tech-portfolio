@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: 'ashish-khanal-b5b9451a5',
         twitter: '@Ashish__Khanal',
-        github: 'https://github.com/akhana1',
+        github: 'akhana1',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
