@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Ashish Khanal', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Continuously improving, aspiring technologist, traveller.',
     profilePhoto: 'img/profile.png',
     url: 'https://akhanal1.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
