@@ -13,6 +13,9 @@ or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
 
+
+EXAMPLE: This is Just a randon examples of the project not a real project
+
 Here is the link : [link](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=56744281)
 
 Course details
