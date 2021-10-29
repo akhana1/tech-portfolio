@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ashish Khanal Blog</title>
+        <link>https://akhanal1.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Ashish Khanal news and events.</description>
+        <lastBuildDate>Thu, 29 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Ashish Khanal Blog</title>
+            <url>https://akhanal1.github.io/tech-portfolio/undefined</url>
+            <link>https://akhanal1.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2021 Ashish khanal</copyright>
+        <item>
+            <title><![CDATA[Blog created in 2021]]></title>
+            <link>https://akhanal1.github.io/tech-portfolio/blog/2020/10/29/blog-post.html</link>
+            <guid>https://akhanal1.github.io/tech-portfolio/blog/2020/10/29/blog-post.html</guid>
+            <pubDate>Thu, 29 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I learned how to create my technical portfolio in lesson 11 in class Csc 256 in 2021!</p> ]]></description>
+        </item>
+    </channel>
+</rss>
